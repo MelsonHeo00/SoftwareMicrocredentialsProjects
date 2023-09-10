@@ -1,1 +1,1 @@
-# SoftwareMicrocredentialsProject2
+# SoftwareMicrocredentialsProjects
