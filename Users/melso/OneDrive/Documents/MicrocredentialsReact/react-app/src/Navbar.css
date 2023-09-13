@@ -1,0 +1,26 @@
+
+nav {
+    background-color: #333;
+  }
+  
+  .nav-item {
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+    transition: background-color 0.5s ease;
+    font-size: 20px;
+  }
+  
+  .nav-item a {
+    color: white; 
+    text-decoration: none;
+  }
+  
+  .nav-item:hover a {
+    color: black;
+  }
+  
+  .nav-item:hover {
+    background-color: #fff;
+  }
+  
