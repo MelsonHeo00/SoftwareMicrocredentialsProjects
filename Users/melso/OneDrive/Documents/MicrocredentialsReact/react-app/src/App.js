@@ -1,4 +1,3 @@
-// App.js
 import React, { useState } from 'react';
 import './App.css';
 import Header from './Header';
@@ -7,23 +6,17 @@ import Footer from './Footer';
 import cardData from './CardData'; 
 
 function App() {
-    // State for sign-in form
     const [signInData, setSignInData] = useState({ username: '', password: '' });
 
-    // State for sign-up form
     const [signUpData, setSignUpData] = useState({ newUsername: '', newPassword: '' });
   
-    // Handle sign-in form submission
     const handleSignInSubmit = (e) => {
       e.preventDefault();
-      // Handle sign-in logic here (e.g., validation and authentication)
       console.log('Sign In Data:', signInData);
     };
   
-    // Handle sign-up form submission
     const handleSignUpSubmit = (e) => {
       e.preventDefault();
-      // Handle sign-up logic here (e.g., validation and user registration)
       console.log('Sign Up Data:', signUpData);
     };
   
