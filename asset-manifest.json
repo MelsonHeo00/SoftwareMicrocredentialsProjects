@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SoftwareMicrocredentialsProjects/static/css/main.ace87b49.css",
-    "main.js": "/SoftwareMicrocredentialsProjects/static/js/main.2f25b5e6.js",
+    "main.css": "/SoftwareMicrocredentialsProjects/static/css/main.19dccc1e.css",
+    "main.js": "/SoftwareMicrocredentialsProjects/static/js/main.bc5e46d9.js",
     "index.html": "/SoftwareMicrocredentialsProjects/index.html",
-    "main.ace87b49.css.map": "/SoftwareMicrocredentialsProjects/static/css/main.ace87b49.css.map",
-    "main.2f25b5e6.js.map": "/SoftwareMicrocredentialsProjects/static/js/main.2f25b5e6.js.map"
+    "main.19dccc1e.css.map": "/SoftwareMicrocredentialsProjects/static/css/main.19dccc1e.css.map",
+    "main.bc5e46d9.js.map": "/SoftwareMicrocredentialsProjects/static/js/main.bc5e46d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ace87b49.css",
-    "static/js/main.2f25b5e6.js"
+    "static/css/main.19dccc1e.css",
+    "static/js/main.bc5e46d9.js"
   ]
 }
