@@ -1,0 +1,148 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f8f8f8;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #333; 
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 36px;
+}
+
+.subtitle {
+  font-size: 18px;
+}
+
+.featured-food {
+  padding: 20px;
+}
+
+.dish {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.dish h3 {
+  font-size: 24px;
+  color: #333;
+}
+
+.dish p {
+  font-size: 16px;
+  color: #666;
+}
+
+.dish img {
+  margin: 0 auto;
+}
+
+.main-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .subtitle {
+    font-size: 24px;
+    color: #666;
+  }
+  
+  .featured-food, .popular-restaurants {
+    margin-bottom: 30px;
+  }
+
+.featured-food {
+  padding: 20px;
+}
+
+.dish {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.dish h3 {
+  font-size: 24px;
+  color: #333;
+}
+
+.dish p {
+  font-size: 16px;
+  color: #666;
+}
+
+
+.popular-restaurants {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+}
+
+.restaurant {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.restaurant h3 {
+  font-size: 24px;
+  color: #333;
+}
+
+.restaurant p {
+  font-size: 16px;
+  color: #666;
+}
+
+.restaurant a {
+  color: #007bff; 
+  text-decoration: none;
+}
+
+.restaurant a:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}

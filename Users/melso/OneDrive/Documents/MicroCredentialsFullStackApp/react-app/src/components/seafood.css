@@ -1,0 +1,95 @@
+.slick-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.slider-image {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+
+.seafood-slider-container {
+  max-width: 90%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+.image-description {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8); 
+  padding: 20px; 
+  text-align: center; 
+  border: 2px solid #333; 
+  border-radius: 5px;
+  bottom: 10px;
+  left: 20px; 
+  right: 20px; 
+}
+
+.description-text {
+  color: #333; 
+}
+
+.description-text a {
+  color: #007bff; 
+  text-decoration: none;
+}
+
+.description-text a:hover {
+  text-decoration: underline;
+}
+
+.specials-section {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+}
+
+.special {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 400px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.special h3 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.special p {
+  font-size: 16px;
+  color: #666;
+}
+
+.special-image {
+  max-width: 100%;
+  height: auto;
+  margin: 10px 0;
+}
+
+.special a {
+  display: inline-block;
+  background-color: black;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.special a:hover {
+  background-color: #0056b3;
+}
